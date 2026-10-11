@@ -69,4 +69,3 @@ hi Warningsg gui=bold guifg=NONE guibg=#2b0808
 hi Wildenu gui=NONE guifg=NONE guibg=#5e5e5e
 hi lCursor gui=NONE guifg=NONE guibg=NONE
 hi PreProc gui=NONE guifg=NONE guibg=NONE
-
